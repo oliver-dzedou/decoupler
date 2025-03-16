@@ -1,7 +1,7 @@
 # Decoupler
 
 Decoupler is a CLI tool to help you analyze hard couplings in your codebase. It does so by collecting your commit history and running an FP growth algorithm on the filesets within.
-It then outputs a markdown report [example](example_output.md) containing all the filesets that are most frequently edited together, hinting at a possible hard coupling between these files. <br/>
+It then outputs a markdown report ([example](example_output.md)) containing all the filesets that are most frequently edited together, hinting at a possible hard coupling between these files. <br/>
 
 ## Important info 
 
