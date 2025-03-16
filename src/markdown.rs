@@ -84,8 +84,9 @@ impl MarkdownGenerator {
         self.newline();
         couplings.iter().for_each(|coupling| {
             self.write(&format!("**Coupling**: {}", self.format_files(&coupling.0)));
+            self.newline();
             self.write(&format!("**Instances found**: {}", coupling.1));
-            self.newline()
+            self.newline();
         });
     }
 }
