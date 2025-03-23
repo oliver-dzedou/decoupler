@@ -24,8 +24,3 @@ For ease of use, you can add Decoupler to your ``bin`` folder
 
 ``decoupler --help`` contains all the instructions. ``decoupler`` runs the app with default settings 
 
-## Disclaimer
-
-I made Decoupler out of spite in a couple of weekends, when I noticed that a certain SAAS company is offering this functionality for a relatively hefty fee :)
-
-That is just to say that my focus is elsewhere -- I don't plan to actively maintain Decoupler. Feel free to submit issues, but don't expect me to address them in a timely manner.
