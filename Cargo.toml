@@ -4,6 +4,6 @@ version = "1.0.0"
 edition = "2021"
 
 [dependencies]
-clap = { version = "4.0", features = ["derive"] }
-fp-growth= "0.1"
-chrono = "0.4.40" 
+clap = { version = "4.6.0", features = ["derive"] }
+fp-growth= "0.1.6"
+chrono = "0.4.44" 
