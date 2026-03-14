@@ -9,8 +9,6 @@ As of now, Decoupler is only available as a binary. You can build it yourself: <
 
 ``cargo build --release``
 
-Or download it from the [releases page](https://github.com/oliver-dzedou/decoupler/releases)
-
 For ease of use, you can add Decoupler to your ``bin`` folder
 
 ``sudo cp target/release/decoupler /usr/local/share`` 
